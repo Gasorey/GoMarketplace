@@ -9,10 +9,17 @@
 <p align="center">
   <a href="#dart-objetivo">Objetivo</a>&nbsp;&nbsp;|&nbsp;
   <a href="#wrench-tecnologias-aplicadas">Tecnologias Aplicadas</a>&nbsp;&nbsp;|&nbsp
-
-
+  
+ 
 
 </p>
+
+
+  ![marketplace](GoMarketPlace2.gif)
+            
+  
+
+
 
 ## :dart: Objetivo
 Consumir a API fake que possui alguns produtos com, nome, preço e imagem ilustrativa, e simular um ambiente de uma loja virtual. onde podemos adicionar produtos ao carrinho e acrescentar ou reduzir a quantidade de produtos.
